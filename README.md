@@ -1,4 +1,5 @@
-#Project: Data Cleaning
+Project: Data Cleaning
+
 1.Data Backup and Staging:
 Created a staging table layoffs_staging as a working copy of the original layoffs table to avoid affecting raw data.
 Inserted all data from the original table into the staging table.
